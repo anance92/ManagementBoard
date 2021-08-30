@@ -1,6 +1,6 @@
 # ManagementBoard
 
-## Week 1 - August 30th - September 3rd
+## Week 1: August 30th - September 3rd
 
 * Revisit Java (30 minutes every day)
 * Revisit Javascript (30 minutes every day)
