@@ -1,7 +1,6 @@
 # ManagementBoard
 
 ## Week 4: September 20th - September 24th
-
 * Interview questions 
     - Practice using technical terminology and avoid using casual language
     - ServiceNow Modules
