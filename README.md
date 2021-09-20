@@ -1,14 +1,17 @@
 # ManagementBoard
 
-## Week 3: September 13th - September 17th
-Similar structure to the week 2 (It's working!) but new topics for this week include:
-* Need to revisit Event Management
+## Week 4: September 20th - September 24th
+
 * Interview questions 
     - Practice using technical terminology and avoid using casual language
+    - ServiceNow Modules
+    - Service Catalog
+    - UI Policy vs Data Policy
+    - How to remove Dictionary Override
+    - Phases of SDLC
 
 * Revisit Java (30 minutes every day) - 2-3 code challenges have been helping
 * Revisit Javascript (30 minutes every day)
-* ServiceNow Modules (1 hour every day) 
 * ServiceNow Scripting Exercises (20-30 minutes every day per type - Pick at least 2)
     - Script Includes
     - Business Rules
@@ -21,6 +24,8 @@ Similar structure to the week 2 (It's working!) but new topics for this week inc
     - Workflow Scripts
     - Additional Scripts
 
+## Week 3: September 13th - September 17th
+* Completed
 
 ## Week 2: September 7th - September 10th
 * Completed
