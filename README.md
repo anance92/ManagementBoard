@@ -1,16 +1,13 @@
 # ManagementBoard
 
-## Week 4: September 20th - September 24th
-* Interview questions 
+## Week 5: September 27th - October 1st: PROJECT ONBOARDING
+* Always good to brush up on:
     - Practice using technical terminology and avoid using casual language
     - ServiceNow Modules
     - Service Catalog
     - UI Policy vs Data Policy
     - How to remove Dictionary Override
     - Phases of SDLC
-
-* Revisit Java (30 minutes every day) - 2-3 code challenges have been helping
-* Revisit Javascript (30 minutes every day)
 * ServiceNow Scripting Exercises (20-30 minutes every day per type - Pick at least 2)
     - Script Includes
     - Business Rules
@@ -22,6 +19,11 @@
     - Transform Map Scripts
     - Workflow Scripts
     - Additional Scripts
+* Java
+* Javascript
+
+## Week 4: September 20th - September 24th
+* Completed 
 
 ## Week 3: September 13th - September 17th
 * Completed
